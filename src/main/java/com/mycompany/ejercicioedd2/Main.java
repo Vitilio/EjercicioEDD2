@@ -39,7 +39,7 @@ public class Main {
         
         fullName=(firstName+" "+firstSurname+" "+lastSurname);
         
-        System.out.println(fullName);
+        System.out.println(fullNam);
     }
     
 }
